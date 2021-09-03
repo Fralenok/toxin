@@ -1,0 +1,5 @@
+{
+  "name": "toxin",
+  "packageManager": "yarn@3.0.1",
+  "private": true
+}
